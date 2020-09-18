@@ -1,1 +1,66 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+item.mh:start_game.name=§aStart Normal Run §7[Punch]§r
+item.mh:start_juggernaut.name=§cStart Juggernaut Mode §7[Punch]§r
+item.mh:options.name=§7Options §8[Punch]§r
+item.mh:translator.name=§4Translator §7[Punch]§r
+item.mh:select_self.name=§6Select Self §7[Punch]§r
+item.mh:punch_speedrunner.name=§6Punch to Select §7[Punch]§r
+item.mh:random_speedrunner.name=§6Random Player §7[Punch]§r
+item.mh:back_button.name=§7Back §8[Punch]§r
+item.mh:difficulty_easy.name=§cGame Difficulty: Easy §7[Punch]§r
+item.mh:difficulty_hard.name=§cGame Difficulty: Hard §7[Punch]§r
+item.mh:difficulty_normal.name=§cGame Difficulty: Normal §7[Punch]§r
+item.mh:difficulty_peaceful.name=§cGame Difficulty: Peaceful §7[Punch]§r
+item.mh:headstart_off.name=§6Headstart Disabled §7[Punch]§r
+item.mh:headstart_on.name=§6Headstart Enabled §7[Punch]§r
+item.mh:disable_timer.name=§9Timer Disabled §7[Punch]§r
+item.mh:set_timer.name=§9Timer Enabled §7[Punch]§r
+item.mh:keep_inventory_off.name=§bKeep Inventory Disabled §7[Punch]§r
+item.mh:keep_inventory_on.name=§bKeep Inventory Enabled §7[Punch]§r
+item.mh:grace_period_off.name=§eGrace Period Disabled §7[Punch]§r
+item.mh:grace_period_on.name=§eGrace Period Enabled §7[Punch]§r
+item.mh:reset.name=§7Reset to Default §8[Punch]§r
+
+game.start.title=§7Minecraft §cManhunt
+game.start.begin=Manhunt begins in %s
+game.start.hunters=Releasing hunters in %s
+game.start.message=Begin!
+game.start.hunters_release=Hunters released!
+game.start.speedrunner_release=Speedrunner released!
+game.start.tip.juggernaut=In this mode, hunters will be given full diamond armor and a Diamond Sword.
+game.start.tip1=Your goal is to beat Minecraft.
+game.start.tip2=Your goal is to beat Minecraft within the time limit.
+game.start.tip3=Your goal is to catch and kill the speedrunner.
+game.start.tip4=You will be given a 15-second headstart.
+game.start.tip5=All hunters will receive a navigator that will lead you to the speedrunner.
+game.start.tip6=You will lose if you die once by any means!
+game.start.tip7=You will lose if the speedrunner defeats the Ender Dragon and finishes the game!
+game.start.tip8=Lastly, the most important thing is to enjoy!
+game.death.speedrunner=Speedrunner died, the §chunters§r won the game!
+
+options.reset.fail=Options are already set to default!
+options.reset.success=Options set back to default.
+options.difficulty=Game difficulty set to '%s'.
+options.difficulty.peaceful=Note that Blazes, which drops Blaze rods, do not spawn in this difficulty.
+options.timer.enabled=1-hour time limit enabled.
+options.timer.disabled=Time limit disabled.
+options.keep_inventory.enabled=Keep Inventory enabled.
+options.keep_inventory.disabled=Keep Inventory disabled.
+options.grace_period.enabled=Grace Period enabled.
+options.grace_period.disabled=Grace Period disabled.
+options.headstart.enabled=Headstart enabled.
+options.headstart.disabled=Headstart disabled.
+
+speedrunner.challenge_complete=Speedrunner has completed the challenge! Congratulations!
+speedrunner.complete_actionbar=§7Challenge complete, please create a §6different world§7!
+speedrunner.generic.grace_period=You can't attack the speedrunner while the grace period is still active!
+speedrunner.generic.no_player=No Speedrunner Selected
+speedrunner.punch.info=Punch the player that you want to be the speedrunner while holding this item!
+speedrunner.punch.self=You have been selected as the speedrunner!
+speedrunner.punch.selected=Punched player selected!
+speedrunner.random.no_player=It's meaningless to find a random player when there's only one player!
+speedrunner.random.success=Successfully picked a random speedrunner!
+speedrunner.self.error=You're the speedrunner already!
+speedrunner.self.success=Selected yourself as a speedrunner!
+
+# Do not modify anything below this:
+entity.mh:world_spawn.name=[World Spawn]
