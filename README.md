@@ -2,8 +2,8 @@
 Here you can contribute and translate my Minecraft: Bedrock Edition add-ons! 
 Your contribution is highly appreciated, and you will be properly credited.
 
-
-Note that only 29 languages are available for translation, which are currently now available for the Bedrock Edition:
+## Available Languages
+Note that only these 29 languages are available for translation, which are currently available for the Bedrock Edition:
 1. Bahasa Indonesia
 2. Dansk
 3. Deutsch
@@ -33,3 +33,8 @@ Note that only 29 languages are available for translation, which are currently n
 27. 简体中文 (中国)
 28. 繁體中文 (台灣)
 29. 한국어
+
+## Useful Information
+- Do not remove or change `%s`. They represent certain data, but shown properly in-game. 
+- Use original color-coding whenever applicable.
+- Do not use any translator when translating, only contribute whenever you can and know the language!
