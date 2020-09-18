@@ -3,9 +3,9 @@ Here you can contribute and translate my Minecraft: Bedrock Edition add-ons!
 Your contribution is highly appreciated, and you will be properly credited.
 
 ## How to Start Translating Something
-1. Find an add-on you wish to translate to, then open its `.LANG` file.
-2. If your selected language is already available, it means someone has already started or have translated it. It is up to you to double-check or proofread it. 
-3. Submit a `Pull Request` if its not yet listed. Also, download the original `en_US.lang` beforehand.
+1. Find an add-on you wish to translate to.
+2. If your native language is already available, it means someone has already started or have translated it already. It is up to you to double-check or proofread it. 
+3. Submit a `Pull Request` if its not yet listed. Also, don't forget to download the original `en_US.lang` beforehand.
 
 ## Useful Information
 - Do not remove or change `%s`. They represent certain data, but shown properly in-game. 
