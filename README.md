@@ -4,7 +4,7 @@ Your contribution is highly appreciated, and you will be properly credited.
 
 ## Useful Information
 - Do not remove or change `%s`. They represent certain data, but shown properly in-game. 
-- Use original & proper color-coding whenever applicable. [Learn Minecraft color codes here](https://www.colorschemer.com/minecraft-color-codes/)
+- Use original & proper color-coding whenever applicable. [Learn Minecraft color codes here](https://www.colorschemer.com/minecraft-color-codes/).
 - Do not use any translator when translating, only contribute whenever you can and know the language!
 - I will not accept translations from languages not listed below.
 
