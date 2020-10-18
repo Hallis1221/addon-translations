@@ -1,0 +1,66 @@
+item.mh:start_game.name=§aStart Normalt løp §7[Trykk]§r
+item.mh:start_juggernaut.name=§cStart "Juggernaut" Modus §7[Trykk]§r
+item.mh:options.name=§7Innstillinger §8[Trykk]§r
+item.mh:translator.name=§4Oversetter §7[Trykk]§r
+item.mh:select_self.name=§6Velg selv §7[Trykk]§r
+item.mh:Trykk_speedrunner.name=§6Trykk for å velge §7[Trykk]§r
+item.mh:random_speedrunner.name=§6Tilfeldig Spiller §7[Trykk]§r
+item.mh:back_button.name=§7Tilbake §8[Trykk]§r
+item.mh:difficulty_easy.name=§cSpill Vansklighet: Enkel §7[Trykk]§r
+item.mh:difficulty_hard.name=§cSpill Vansklighet: Vansklig §7[Trykk]§r
+item.mh:difficulty_normal.name=§cSpill Vansklighet: Normalt §7[Trykk]§r
+item.mh:difficulty_peaceful.name=§cSpill Vansklighet: Enkelt §7[Trykk]§r
+item.mh:headstart_off.name=§6Forsprang: Av §7[Trykk]§r
+item.mh:headstart_on.name=§6Forsprang På §7[Trykk]§r
+item.mh:disable_timer.name=§9Nedtelling: Av §7[Trykk]§r
+item.mh:set_timer.name=§9Nedtelling: På §7[Trykk]§r
+item.mh:keep_inventory_off.name=§bBehold inventar: Av §7[Trykk]§r
+item.mh:keep_inventory_on.name=§bBehold inventar: På §7[Trykk]§r
+item.mh:grace_period_off.name=§eFreds-periode: Av §7[Trykk]§r
+item.mh:grace_period_on.name=§eFreds-periode: På §7[Trykk]§r
+item.mh:reset.name=§7Tilbakestill til standard §8[Trykk]§r
+
+game.start.title=§7Minecraft §cManhunt
+game.start.begin=Manhunt begynner om %s
+game.start.hunters=Slipper løs jegerne om %s
+game.start.message=Start!
+game.start.hunters_release=Jegere sluppet fri!
+game.start.speedrunner_release=Løper sluppet fri!
+game.start.tip.juggernaut=I denne modusen vill jegerne bli gitt full diamant rusting og et diamant sverd.
+game.start.tip1=Målet ditt er å fullføre Minecraft (drepe enderdragon). 
+game.start.tip2=Målet ditt er å fullføre Minecraft (drepe enderdragon) innen tiden er omme. 
+game.start.tip3=Målet ditt er å fange og drepe løperen. 
+game.start.tip4=Du får 15 sekunders forsprang. 
+game.start.tip5=Alle jegere vill gå en navigator som vill føre dem til løperen.
+game.start.tip6=Du taper hvis du dør en gang, uansett hvordan!
+game.start.tip7=Du taper hvis slår enderdragon og ender spillet!
+game.start.tip8=Til slutt, det viktigste er å ha det gøy :)!
+game.death.speedrunner=løperen døde, §cjegerne§r vant spillet!
+
+options.reset.fail=Innstillingene er allerede på standard.
+options.reset.success=Innstillingene er satt til standard.
+options.difficulty=Spillets vansklighet er satt til '%s'.
+options.difficulty.peaceful=Husk at blazen, som gir blaze staver, ikke finner i denne vansklighets graden.
+options.timer.enabled=En time maksgrense nådd. 
+options.timer.disabled=Tidsgrense: Av.
+options.keep_inventory.enabled=Behold inventar: På.
+options.keep_inventory.disabled=Behold inventar: Av.
+options.grace_period.enabled=Freds periode: På. 
+options.grace_period.disabled=Freds periode: Av.
+options.headstart.enabled=Forsprang: På.
+options.headstart.disabled=Forsprang: Av.
+
+speedrunner.challenge_complete=Løperen har fullført utfordringen! Gratulerer!
+speedrunner.complete_actionbar=§7Utfordringen fullført, vær så snill og lag en §6ny verden§7!
+speedrunner.generic.grace_period=Du kan ikke angripe løperen mens freds perioden er aktiv!
+speedrunner.generic.no_player=Ingen løper valgt.
+speedrunner.punch.info=Trykk spilleren som skal være løperen mens du holder denne gjenstanden!
+speedrunner.punch.self=Du har blitt valgt som løper!
+speedrunner.punch.selected=Trykket spiller valgt!
+speedrunner.random.no_player=Det er idiotisk å finne en tilfeldig spiller når det bare er en spiller... 
+speedrunner.random.success=Valgte en tilfeldig spiller med suksess!
+speedrunner.self.error=Du er allerede en løper!
+speedrunner.self.success=Valgte deg selv som løper!
+
+# Do not modify anything below this:
+entity.mh:world_spawn.name=[World Spawn]

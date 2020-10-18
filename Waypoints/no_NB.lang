@@ -1,0 +1,28 @@
+action.waypoint.link_compass=Link Compass
+
+entity.wp:waypoint.name=[Lagret punkt]
+entity.wp:death_mark.name=[Døds markør]
+
+item.spawn_egg.entity.wp:waypoint.name=Lagrings punkt plasserer
+item.spawn_egg.entity.wp:death_mark.name=Døds markør
+
+item.wp:waypoint_compass_black.name=Tomrommets kompass
+item.wp:waypoint_compass_blue.name=Lagrings punkt kompass
+item.wp:waypoint_compass_brown.name=Lagrings punkt kompass
+item.wp:waypoint_compass_cyan.name=Lagrings punkt kompass
+item.wp:waypoint_compass_gray.name=Lagrings punkt kompass
+item.wp:waypoint_compass_green.name=Lagrings punkt kompass
+item.wp:waypoint_compass_light_blue.name=Lagrings punkt kompass
+item.wp:waypoint_compass_light_gray.name=Lagrings punkt kompass
+item.wp:waypoint_compass_lime.name=Lagrings punkt kompass
+item.wp:waypoint_compass_magenta.name=Lagrings punkt kompass
+item.wp:waypoint_compass_orange.name=Lagrings punkt kompass
+item.wp:waypoint_compass_pink.name=Lagrings punkt kompass
+item.wp:waypoint_compass_purple.name=Lagrings punkt kompass
+item.wp:waypoint_compass_red.name=Lagrings punkt kompass
+item.wp:waypoint_compass_white.name=Lagrings punkt kompass
+item.wp:waypoint_compass_yellow.name=Lagrings punkt kompass
+
+waypoint.compass_unlink=§7Lagrings punkt kompass frakoblet§r
+waypoint.teleport.success=§7Reiste til lagret punkt med suksess§r
+waypoint.teleport.cancelled=§7Reise til lagret punkt avbrutt§r
