@@ -1,0 +1,28 @@
+action.waypoint.link_compass=Link Compass
+
+entity.wp:waypoint.name=[Waypoint]
+entity.wp:death_mark.name=[Death Mark]
+
+item.spawn_egg.entity.wp:waypoint.name=Waypoint Placer
+item.spawn_egg.entity.wp:death_mark.name=Death Mark
+
+item.wp:waypoint_compass_black.name=Compass of the Void
+item.wp:waypoint_compass_blue.name=Waypoint Compass
+item.wp:waypoint_compass_brown.name=Waypoint Compass
+item.wp:waypoint_compass_cyan.name=Waypoint Compass
+item.wp:waypoint_compass_gray.name=Waypoint Compass
+item.wp:waypoint_compass_green.name=Waypoint Compass
+item.wp:waypoint_compass_light_blue.name=Waypoint Compass
+item.wp:waypoint_compass_light_gray.name=Waypoint Compass
+item.wp:waypoint_compass_lime.name=Waypoint Compass
+item.wp:waypoint_compass_magenta.name=Waypoint Compass
+item.wp:waypoint_compass_orange.name=Waypoint Compass
+item.wp:waypoint_compass_pink.name=Waypoint Compass
+item.wp:waypoint_compass_purple.name=Waypoint Compass
+item.wp:waypoint_compass_red.name=Waypoint Compass
+item.wp:waypoint_compass_white.name=Waypoint Compass
+item.wp:waypoint_compass_yellow.name=Waypoint Compass
+
+waypoint.compass_unlink=§7Waypoint compass unlinked§r
+waypoint.teleport.success=§7Waypoint travel successful§r
+waypoint.teleport.cancelled=§7Waypoint travel cancelled§r
